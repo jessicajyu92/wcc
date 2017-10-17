@@ -1,6 +1,3 @@
 Example 1
 
-jfask
-asdlkjf
-asldkfj
-asdlfkjslka
+this is the solution
